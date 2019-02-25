@@ -1,0 +1,64 @@
+[RECOVERY][1.2][OFFICIAL]Skyhawk Recovery Project [device_code]
+
+
+[CENTER][IMG="shrplogo"]https://i.imgur.com/19Obepk.png[/IMG]
+[I][B][SIZE="7"]SKYHAWK RECOVERY PROJECT 1.2 [/SIZE][/B][/I]
+
+[CODE][SIZE="4"]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/SIZE][/CODE]
+
+
+
+[IMG="shrpabout"]https://i.imgur.com/kdpFHmA.png[/IMG]
+
+[B][INDENT]SHRP is inspired by material design 2 to bring the newest design to the native TWRP.
+SHRP provides much more along side of it's rich UI experience.
+It has a new convenient way to interact with TWRP, like accessing the storage with side menu bar , Password protection etc. 
+It's all started , lot more to come. 
+[/INDENT]
+[/B]
+
+
+[IMG="shrpinstall"]https://i.imgur.com/7LazYMN.png[/IMG]
+
+[B]
+Make sure you have a custom recovery installed
+Download the latest SHRP recovery for your device from website
+Boot into recovery
+Flash shrp recovry zip
+Reboot to recovery. [/B]
+
+
+[IMG="shrpdownload"]https://i.imgur.com/CFPRQZo.png[/IMG]
+[B][SIZE="5"][URL="http://shrp.cf"]Download[/URL][/B]
+
+
+
+[IMG="shrpthanks"]https://i.imgur.com/i9KnH8U.png[/IMG]
+
+[B]XDA Developers
+TeamWin for Recovery Base
+osm0sis for scripts
+Dni9
+Saurav Gain (@epicX67) for designing and all works
+And Of Course To All The Supporters, Donators And Users[/B]
+
+
+[IMG="shrpbugs"]https://i.imgur.com/j6smOo9.png[/IMG]
+
+[B]If you have a major bug to report that has not been reported already, please take the following steps to report it to us.
+Join our telegram group and report your issue in the following format:
+#report
+Device Name -
+Code Name -
+Issue -[/B]
+
+
+[CENTER][URL="https://t.me/sky_hawk"][img]https://resurrectionremix.com/assets/rrtg.png[/img][/URL][/CENTER]
