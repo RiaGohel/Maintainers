@@ -1,8 +1,8 @@
-[9.0][OFFICIAL]Resurrection Remix v7.0 [device_code]
+[RECOVERY][1.2][OFFICIAL]Skyhawk Recovery Project [device_code]
 
 
-[CENTER][IMG="rrlogo"]https://resurrectionremix.com/assets/rrlogo.png[/IMG]
-[I][B][SIZE="7"]Resurrection Remix P [/SIZE][/B][/I]
+[CENTER][IMG="shrplogo"]https://i.imgur.com/19Obepk.png[/IMG]
+[I][B][SIZE="7"]SKYHAWK RECOVERY PROJECT 1.2 [/SIZE][/B][/I]
 
 [CODE][SIZE="4"]/*
  * Your warranty is now void.
@@ -16,63 +16,49 @@
 
 
 
-[IMG="rrabout"]https://resurrectionremix.com/assets/rrabout.png[/IMG]
+[IMG="shrpabout"]https://i.imgur.com/kdpFHmA.png[/IMG]
 
-[B][INDENT]Resurrection Remix the ROM has been based on LineageOS, SlimRoms, Omni and original Remix ROM builds, this creates an awesome 
-combination of performance, customization, power and the most new features, brought directly to your Device.
-
-Many things that in previous versions were tweaked with mods, are now included by default in the ROM so, please enjoy!
-Special thanks to the LineageOS team, Omni team, SlimRoms and of course to all the supporters.
-
+[B][INDENT]SHRP is inspired by material design 2 to bring the newest design to the native TWRP.
+SHRP provides much more along side of it's rich UI experience.
+It has a new convenient way to interact with TWRP, like accessing the storage with side menu bar , Password protection etc. 
+It's all started , lot more to come. 
 [/INDENT]
 [/B]
 
 
-[IMG="rrinstall"]https://resurrectionremix.com/assets/rrinstall.png[/IMG]
+[IMG="shrpinstall"]https://i.imgur.com/7LazYMN.png[/IMG]
 
 [B]
-Make sure you have a custom recovery installed(TWRP is the preferred recovery)
-Download the latest Resurrection Remix Rom & the latest GApps package
+Make sure you have a custom recovery installed
+Download the latest SHRP recovery for your device from website
 Boot into recovery
-Perform a FULL factory wipe and wipe/system and dalvik cache as a precaution
-Flash ResurrectionRemix Rom
-Flash Google Apps package(Optional)
-Flash Magisk Root(Optional)
-First boot may take up to 10 minutes.[/B]
+Flash shrp recovry zip
+Reboot to recovery. [/B]
 
 
-[IMG="rrdownload"]https://resurrectionremix.com/assets/rrdownload.png[/IMG]
-[B][SIZE="5"][URL="https://get.resurrectionremix.com"]ROM Download[/URL]
-[URL="https://opengapps.org/"]GApps[/URL][/SIZE][/B]
+[IMG="shrpdownload"]https://i.imgur.com/CFPRQZo.png[/IMG]
+[B][SIZE="5"][URL="http://shrp.cf"]Download[/URL][/B]
 
 
-[IMG="rrsource"]https://resurrectionremix.com/assets/rrsource.png[/IMG]
 
-[SIZE="3"][B][URL="https://github.com/ResurrectionRemix"]Resurrection Remix Source[/URL]
-[URL="https://github.com/ResurrectionRemix"]Device Source[/URL]
-[URL="https://github.com/ResurrectionRemix"]Kernel Source[/URL]
-[URL="https://github.com/ResurrectionRemix"]Vendor Source[/URL][/B][/SIZE]
-
-
-[IMG="rrthanks"]https://resurrectionremix.com/assets/rrthanks.png[/IMG]
+[IMG="shrpthanks"]https://i.imgur.com/i9KnH8U.png[/IMG]
 
 [B]XDA Developers
-LineageOs Team
-Omni Team
+TeamWin for Recovery Base
+osm0sis for scripts
+Dni9
+Saurav Gain (@epicX67) for designing and all works
 And Of Course To All The Supporters, Donators And Users[/B]
 
 
-[IMG="rrbugs"]https://resurrectionremix.com/assets/rrbugs.png[/IMG]
+[IMG="shrpbugs"]https://i.imgur.com/j6smOo9.png[/IMG]
 
-[B]If you have a major bug to report that has not been reported already, please take the following steps to report it to us.  It will save you, Team Resurrection Remix and me quite some time.
-
-Download the [URL="https://play.google.com/store/apps/details?id=com.pluscubed.matlog&hl=de"][U]MatLog[/U][/URL] app from the Play Store.
-After downloading the MatLog app, go to the app settings, and change the log level to Debug.
-Clear all previous logs and take the exact steps to produce the error you are receiving. As soon as you receive the error (probably a force close), go straight into MatLog and stop the log recording.
-Copy and paste the entire log either to [URL="http://hastebin.com"][U]Hastebin[/U][/URL] or [URL="http://pastebin.com"][U]Pastebin[/U][/URL]
-Save the log, and copy and paste the link into the thread with a brief description of the error.[/CENTER][/B]
-
-[CENTER][IMG="rrsocial"]https://resurrectionremix.com/assets/rrsocial.png[/IMG]
+[B]If you have a major bug to report that has not been reported already, please take the following steps to report it to us.
+Join our telegram group and report your issue in the following format:
+#report
+Device Name -
+Code Name -
+Issue -[/B]
 
 
-[URL="https://twitter.com/rrosofficial"][img]https://resurrectionremix.com/assets/rrtwitter.png[/img][/URL] [URL="https://github.com/ResurrectionRemix"][img]https://resurrectionremix.com/assets/rrgithub.png[/img][/URL] [URL="https://plus.google.com/u/0/communities/109352646351468373340"][img]https://resurrectionremix.com/assets/rrg+.png[/img][/URL] [URL="https://www.facebook.com/resurrectionremixrom"][img]https://resurrectionremix.com/assets/rrfb.png[/img][/URL] [URL="https://t.me/resurrectionremixchannel"][img]https://resurrectionremix.com/assets/rrtg.png[/img][/URL][/CENTER]
+[CENTER][URL="https://t.me/sky_hawk"][img]https://resurrectionremix.com/assets/rrtg.png[/img][/URL][/CENTER]
