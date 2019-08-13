@@ -117,7 +117,7 @@ Omni Rom, Slim Rom, DirtyUnicorns, AospExtended and every other project whose co
     *For this please check in the device specific forums
 2) Download the latest StagOS Build and Open gapps package from the link provided official ones remove some default apps.
 3) Boot into recovery
-4) Perform a FULL factory wipe and wipe/system and dalvik cache as a precaution
+4) Go to Wipe and wipe system,data,dalvik & cache as a precaution
 5) Flash StagOS zip & Gapps package(Optional)
 6) Flash Magisk Root(Optional)[/COLOR]
 
