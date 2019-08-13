@@ -1,1 +1,159 @@
+[CENTER][IMG]https://i.imgur.com/V4Mm63b.png[/IMG]
 
+[IMG]https://i.imgur.com/12zAeQl.png[/IMG]
+Hey another day another rom, that's what you might be thinking. but we at stag (I'll try not to use big words, because the idea is to be simple) aim at something towards elegance. We are learners just like everyone out there, This is small something we have started which helps us learn every single day. Why Stag, you might question, my answer would be why not. After all Harry's patronus was a stag(pun intended). Anyway, so the aim here is to provide a really good experience to everyone who uses, everyone on telegram channel can contact us and request, everything will be considered, because if you as users feel something missing, it obviously must be missing. So looking forward for people using our StagOS and giving us all your precious feedback. 
+~Sic Parvis Magna~
+PS: for people wondering what sic parvis magna is, it translates to great endings from small beginnings, Something i picked up while playing a game.
+Credits where they are Due:
+Google(No explanation needed n this regards)
+Lineage(For starting of the custom rom war)
+KCUF Rom(For acting as base)
+Omni Rom, Slim Rom, DirtyUnicorns, AospExtended and every other project whose contributions lead to many of the features present.
+
+[IMG]https://i.imgur.com/fZPHbGP.png[/IMG]
+[CODE][SIZE="4"]/*
+ * Your warranty is now void.
+ *
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/SIZE][/CODE]
+
+[IMG]https://i.imgur.com/JVNmgNq.png[/IMG]
+[HIDE]
+1. StatusBar
+
+-Traffic Indicators
+-Battery Icon
+-Clock Settings
+-Carrier Label
+-Battery Bar
+-Old Mobile Type Icons
+-Brightness Control
+-4G - LTE Toggle
+-Volit Icon Toggle
+
+2. Quick Settings
+
+-Header Images
+-QS panel Opacity
+-QS Tile Styles
+
+3. Volume Keys
+
+-Volume Keys Cursor
+-Volume panel position
+-Playback Control
+-Expanded Volume panel
+
+4. Animations
+
+-System Animations
+-Listview Animations
+-Screen Off Animations
+-Power Menu Animations
+-QS tiles Animations
+
+5. Navigation Bar
+
+-SmartBar
+-Fling
+-Pulse
+-Pixel Animation
+
+6. Gestures
+
+-AOSP Gestures
+-Carbon Gestures
+-Navigation Gestures
+-Three Finger Screenshot
+
+7. Lock Screen
+
+-Lock Screen Widgets
+-Lock Screen Clock Styles
+-Disable Power menu and QS
+-Charging info
+-Face Auto Unlock
+
+8. Power Menu
+
+-Advanced Restart
+-Screenshot
+-Screen Record
+
+9. Recents
+
+-Recent styles
+
+10. Notifications
+
+-Notification Light
+-Battery Charging Light
+-Heads Up Notifications toggle
+
+11. Display
+
+-Ambient Display
+-Night Light
+-Expanded Desktop
+-SystemUI themes
+-Lots of Accents
+-Gradient Accents
+-Font Manager
+-QS Panel Themes
+[/HIDE]
+
+[IMG]https://i.imgur.com/zxx2us0.png[/IMG]
+[URL="https://sourceforge.net/projects/stag-os/files/device_name/StagOS-xxx-9.0-OFFICIAL-xxxx.zip/download"][SIZE="6"]ROM[/SIZE][/URL]
+[URL="https://sourceforge.net/projects/stag-os/files/gapps"][SIZE="5"]GApps(STAGIFICAL updated daily) added face unlock in pico version[/SIZE][/URL]
+
+
+[IMG]https://i.imgur.com/RBtbIDF.png[/IMG]
+[/CENTER]
+[COLOR="Blue"]1) You need have a custom recovery installed (TWRP recommended)
+    *For this please check in the device specific forums
+2) Download the latest StagOS Build and Open gapps package from the link provided official ones remove some default apps.
+3) Boot into recovery
+4) Perform a FULL factory wipe and wipe/system and dalvik cache as a precaution
+5) Flash StagOS zip & Gapps package(Optional)
+6) Flash Magisk Root(Optional)[/COLOR]
+
+[CENTER]
+
+[IMG]https://i.imgur.com/5PqmdRt.png[/IMG]
+Whatever Features you find in first build there's no guarantee that they will carry on to the subsequent builds.
+As 69+ features help only to boast, and this ROM over here is not only meant for that. We want you to boast but not by the features, We want you to fall in love with the touch. So here I'll be adding up the features that i intend on adding/removing. we are starting of with many features just to find out what you like/what you don't. 
+
+[U][B]To Add[/B][/U]
+-Nothing for Now-
+
+[U][B]To Remove[/B](Your opinion will matter for this)[/U]
+- Animations customization
+- Decreasing the amount of qstile customization (Way too odd)
+
+[U][B]To Edit[/B][/U]
+-
+[IMG]https://i.imgur.com/JSNWh3U.png[/IMG]
+[SIZE="5"]There's a huge list here[/SIZE]
+Very firstly there're two people who i'd like to extend my big thanks
+ [MENTION=6620830]darshan1205[/MENTION] The person who taught me everything i needed to start and [MENTION=656543]hriday[/MENTION]Sharma who always helped.
+nextly [MENTION=735454]the_Dark[/MENTION]beast who helped me through all the rom and device related stuff.
+ [MENTION=908617]sheka[/MENTION]wat2 for letting us reference on his rom, which helped in making a great base for stag
+Then there are the precious testers without whom many things would still be broken, These change from device to device and will properly be given credits.
+In garlic Pritish Joshi, Saqid, Sandeep and myself tested the rom thoroughly to rid it of all the major bugs.
+Finally Me and [MENTION=219478]phenom[/MENTION]87 We work on the source
+we also have vinothraja and Abhimanyu shekhawat, who always guide us in times of issues a big thanks to them
+the wallpaper and bootanimation yu experience all thanks to pritish joshi
+and the last member in group Rakesh rakhi samuel, who takes care of coding things and web management
+[IMG]https://i.imgur.com/Ce5zT1J.png[/IMG]
+
+[URL="https://github.com/StagOS"][img]https://i.imgur.com/N4gnZBY.png[/img][/URL]  [URL="https://t.me/HornsOfficial"][img]https://i.imgur.com/gh10O2H.png[/img][/URL]
+
+[IMG]https://i.imgur.com/ZJSazPb.png[/IMG]
+[SIZE="5"][URL="https://github.com/StagOS"]ROM[/URL]
+[URL="https://github.com/DrtSinX98/kernel_xiaomi_msm8953/"]Kernel[/URL]
+[URL="https://github.com/StagOS-Devices/device_xiaomi_mido"]Device Tree[/URL][/SIZE]
+[/CENTER]
