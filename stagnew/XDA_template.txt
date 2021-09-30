@@ -132,6 +132,7 @@ Omni Rom, Slim Rom, DirtyUnicorns, AospExtended and every other project whose co
 7. Lock Screen
 
 
+
 -Lock Screen Clock Styles
 
 -Music Visualiser
@@ -240,25 +241,9 @@ As 69+ features help only to boast, and this ROM over here is not only meant for
 
 [SIZE="5"]There's a huge list here[/SIZE]
 
-Very firstly there're two people who i'd like to extend my big thanks
-
- [MENTION=6620830]darshan1205[/MENTION] The person who taught me everything i needed to start and [MENTION=656543]hriday[/MENTION]Sharma who always helped.
-
-nextly [MENTION=735454]the_Dark[/MENTION]beast who helped me through all the rom and device related stuff.
-
- [MENTION=908617]sheka[/MENTION]wat2 for letting us reference on his rom, which helped in making a great base for stag
-
-Then there are the precious testers without whom many things would still be broken, These change from device to device and will properly be given credits.
-
-In garlic Pritish Joshi, Saqid, Sandeep and myself tested the rom thoroughly to rid it of all the major bugs.
-
-Finally Me and [MENTION=219478]phenom[/MENTION]87 We work on the source
-
-we also have vinothraja and Abhimanyu shekhawat, who always guide us in times of issues a big thanks to them
-
+Me and phenom87 We work on the source
+The changes from device to device and will properly be given credits.
 the wallpaper and bootanimation yu experience all thanks to pritish joshi
-
-and the last member in group Rakesh rakhi samuel, who takes care of coding things and web management
 
 [IMG]https://raw.githubusercontent.com/DrtSinX98/Maintainers/master/stagnew/connect.png[/IMG]
 
