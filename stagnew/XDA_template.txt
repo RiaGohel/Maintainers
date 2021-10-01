@@ -255,9 +255,9 @@ the wallpaper and bootanimation yu experience all thanks to pritish joshi
 
 [SIZE="5"][URL="https://github.com/StagOS"]ROM[/URL]
 
-[URL="https://github.com/DrtSinX98/kernel_xiaomi_msm8953/"]Kernel[/URL]
+[URL="https://github.com/StagOS-Devices/kernel_xxx_xxx"]Kernel[/URL]
 
-[URL="https://github.com/StagOS-Devices/device_xiaomi_mido"]Device Tree[/URL][/SIZE]
+[URL="https://github.com/StagOS-Devices/device_xxx_xxx"]Device Tree[/URL][/SIZE]
 
 [/CENTER]
 
